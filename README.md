@@ -1,4 +1,3 @@
-Based on your **LandingpageNetflix** repository, here's a tailored `README.md` to enhance its appeal:
 
 ---
 
